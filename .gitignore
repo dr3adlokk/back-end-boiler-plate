@@ -1,4 +1,6 @@
 node_modules
+config.json
 
 .connection.js
 .api-routes.js
+.config.json

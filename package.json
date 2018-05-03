@@ -15,5 +15,13 @@
     "mysql2": "^1.5.3",
     "sequelize": "^4.37.6"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dr3adlokk/back-end-boiler-plate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dr3adlokk/back-end-boiler-plate/issues"
+  },
+  "homepage": "https://github.com/dr3adlokk/back-end-boiler-plate#readme"
 }
